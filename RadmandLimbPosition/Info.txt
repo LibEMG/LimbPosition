@@ -1,0 +1,22 @@
+Citation: 
+Radmand*, A., Scheme, E., Englehart, K., “A Characterization of the Effect of Limb Position on EMG Features to Guide the Development of Effective Prosthetic Control Schemes”, 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Chicago, August 2014, pp. 662-667, DOI: 10.1109/EMBC.2014.6943678
+
+Sampling Frequency: 1 KHz
+Number of positions: 16 static
+Number of motion classes: 8
+Number of repetitions: 4
+Length of each rep: 3 seconds
+Number of EMG Channels : 6
+
+File Naming:
+S#_C#_P#_R#, where S is subject code, C is class code, P is position code, and R is repetition code
+
+Methodology:
+EMG data corresponding to eight classes of motion were collected from 10 right-handed, healthy, normally-limbed
+subjects (9 male, 1 female) within the age range of 19 to 32 years. All experiments were approved by the University of
+New Brunswick’s Research Ethics Board. 
+
+A Trigno Wireless System (Delsys Inc., USA) was used to record surface myoelectric signals. Six wireless electrodes
+were equally spaced placed around the dominant forearm, proximal to the elbow, at the position with largest muscle
+bulk. The six channels of EMG were band-pass filtered (20-450Hz Butterworth) and sampled at 1 kHz by a custom data
+collection system. 
